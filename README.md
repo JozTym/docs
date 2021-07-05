@@ -3,4 +3,4 @@ Public documents, rules and other information.
 
 Publiczna dokumentacja, regulaminy oraz inne informacje.
 
-**&copy; JozTym 2021. All rights reserved**
+**&copy; Stetris 2021. All rights reserved**
